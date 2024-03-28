@@ -1,0 +1,43 @@
+.popular__section{
+    min-height: 72vh;
+}
+
+.popular__title {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    padding: 20px 15px 15px 70px;
+}
+
+.popular__container{
+    padding: 30px 15px 15px 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 30px
+}
+
+.card {
+    height: 250px;
+    width: 180px;
+    background-color: black;
+    background-image: url('../assets/placeholder.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+.title {
+    text-align: left;
+    text-decoration: none;
+    color: black;
+}
+

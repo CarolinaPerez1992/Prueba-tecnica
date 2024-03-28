@@ -1,0 +1,20 @@
+.series__section{
+    min-height: 65vh;
+}
+
+.series__title {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    padding: 20px 15px 15px 70px;
+}
+
+.series__container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    justify-content: center;
+}

@@ -1,0 +1,13 @@
+.movie{
+    background-color: rgb(233, 236, 235);
+    width: 180px;
+    /* padding: 20px 16px; */
+}
+
+.movie__img{
+    width: 100%;
+}
+
+.movie__title {
+    padding: 5px;
+}
